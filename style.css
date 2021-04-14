@@ -1,0 +1,43 @@
+body
+{
+    text-align: center;
+}
+
+#home
+{
+   background: linear-gradient(#eb4034 0%, #d96aeb 100%);
+}
+
+#i2
+{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.i1
+{
+    margin-top: 1px;
+}
+
+#home img
+{
+    border: 20px;
+    border-color: blanchedalmond;
+}
+
+.line 
+{
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+}
+
+.i3
+{
+    width: 100px;
+    height: 100px;
+    margin-right: 200px;
+}
