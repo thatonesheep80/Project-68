@@ -6,6 +6,7 @@ body
 #home
 {
    background: linear-gradient(#eb4034 0%, #d96aeb 100%);
+    margin-top: 50px;
 }
 
 #i2
@@ -40,4 +41,19 @@ body
     width: 100px;
     height: 100px;
     margin-right: 200px;
+}
+
+#reci iframe
+{
+  width:80%;  
+    height:500px;
+}
+
+.my_nav_bar
+{
+    position: fixed;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
 }
